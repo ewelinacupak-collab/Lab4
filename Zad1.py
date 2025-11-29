@@ -39,4 +39,8 @@ print("Wycinek listy od poczatklu do elementu wybranego:", Moja_lista[:6])
 
 print("Od elementu do końca:", Moja_lista[3:])
 
-print()
+print("Zakres elementów z krokiem n", Moja_lista[3:15:2])
+
+print("Odwrócenie listy", Moja_lista[::-1])
+
+
